@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Learn :pencil2:
+* Play games :video_game:
+* Read :book:
+* Pizza :pizza:
